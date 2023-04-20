@@ -1,0 +1,13 @@
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\bin\Release\FPSUnlockerSetup.exe.config
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\bin\Release\FPSUnlockerSetup.exe
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\bin\Release\FPSUnlockerSetup.pdb
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Release\FPSUnlockerSetup.csproj.AssemblyReference.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Release\FPSUnlockerSetup.csproj.SuggestedBindingRedirects.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Release\FPSUnlockerSetup.Properties.Resources.resources
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Release\FPSUnlockerSetup.Setup.resources
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Release\FPSUnlockerSetup.csproj.GenerateResource.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Release\FPSUnlockerSetup.csproj.CoreCompileInputs.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Release\FPSUnlockerSetup.exe
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Release\FPSUnlockerSetup.pdb
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Release\FPSUnlockerSetup.csproj.ResolveComReference.cache

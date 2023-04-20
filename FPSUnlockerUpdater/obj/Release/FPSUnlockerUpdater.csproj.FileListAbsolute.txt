@@ -1,0 +1,8 @@
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUpdater\bin\Release\RBXFPSUnlockerUpdater.exe.config
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUpdater\bin\Release\RBXFPSUnlockerUpdater.exe
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUpdater\bin\Release\RBXFPSUnlockerUpdater.pdb
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUpdater\obj\Release\FPSUnlockerUpdater.csproj.AssemblyReference.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUpdater\obj\Release\FPSUnlockerUpdater.csproj.SuggestedBindingRedirects.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUpdater\obj\Release\FPSUnlockerUpdater.csproj.CoreCompileInputs.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUpdater\obj\Release\RBXFPSUnlockerUpdater.exe
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUpdater\obj\Release\RBXFPSUnlockerUpdater.pdb

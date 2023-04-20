@@ -1,0 +1,8 @@
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUninstaller\bin\Release\FPSUnlockerUninstaller.exe.config
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUninstaller\bin\Release\FPSUnlockerUninstaller.exe
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUninstaller\bin\Release\FPSUnlockerUninstaller.pdb
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUninstaller\obj\Release\FPSUnlockerUninstaller.csproj.AssemblyReference.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUninstaller\obj\Release\FPSUnlockerUninstaller.csproj.SuggestedBindingRedirects.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUninstaller\obj\Release\FPSUnlockerUninstaller.csproj.CoreCompileInputs.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUninstaller\obj\Release\FPSUnlockerUninstaller.exe
+D:\Applications\FPSUnlockerSetup\FPSUnlockerUninstaller\obj\Release\FPSUnlockerUninstaller.pdb

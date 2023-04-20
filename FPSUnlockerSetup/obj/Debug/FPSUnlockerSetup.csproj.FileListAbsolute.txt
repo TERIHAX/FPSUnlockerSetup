@@ -1,0 +1,11 @@
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\bin\Debug\FPSUnlockerSetup.exe.config
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\bin\Debug\FPSUnlockerSetup.exe
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\bin\Debug\FPSUnlockerSetup.pdb
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Debug\FPSUnlockerSetup.csproj.AssemblyReference.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Debug\FPSUnlockerSetup.csproj.SuggestedBindingRedirects.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Debug\FPSUnlockerSetup.Properties.Resources.resources
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Debug\FPSUnlockerSetup.Setup.resources
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Debug\FPSUnlockerSetup.csproj.GenerateResource.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Debug\FPSUnlockerSetup.csproj.CoreCompileInputs.cache
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Debug\FPSUnlockerSetup.exe
+D:\Applications\FPSUnlockerSetup\FPSUnlockerSetup\obj\Debug\FPSUnlockerSetup.pdb
